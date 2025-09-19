@@ -43,6 +43,7 @@
     <mockito.version>4.11.0</mockito.version>
     <maven-javadoc-plugin.version>3.6.0</maven-javadoc-plugin.version>
     <maven-source-plugin.version>3.3.0</maven-source-plugin.version>
+    <sonar.organization>vikrant1717</sonar.organization>
   </properties>
 
   <modules>
